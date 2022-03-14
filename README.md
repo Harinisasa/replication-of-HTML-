@@ -11,16 +11,11 @@
         integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="style.css">
-    <title>MediaBook</title>
 </head>
 
 <body>
     <nav>
-        <div class="nav-left">
-            <img src="./images/logo.png" alt="Logo">
-            <input type="text" placeholder="Search Mediabook..">
-        </div>
-
+        
         <div class="nav-middle">
             <a href="#" class="active">
                 <i class="fa fa-home"></i>
